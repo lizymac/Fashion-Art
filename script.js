@@ -12,7 +12,7 @@ const main = document.getElementById('skill');
 
 const data = [
     {
-        image: '/images/a1.JPG'
+        image: '../images/a1.JPG'
     },
     {
         image: 'images/a2.jpg'
