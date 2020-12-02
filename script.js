@@ -12,31 +12,31 @@ const main = document.getElementById('skill');
 
 const data = [
     {
-        image: '/images/a1.jpg'
+        image: 'images/a1.jpg'
     },
     {
-        image: './images/a2.jpg'
+        image: 'images/a2.jpg'
     },
     {
-        image: './images/a3.jpg'
+        image: 'images/a3.jpg'
     },
     {
-        image: './images/a4.jpg'
+        image: 'images/a4.jpg'
     },
     {
-        image: './images/a5.jpg'
+        image: 'images/a5.jpg'
     },
     {
-        image: './images/a6.jpg'
+        image: 'images/a6.jpg'
     },
     {
-        image: './images/a7.jpg'
+        image: 'images/a7.jpg'
     },
     {
-        image: './images/a8.jpg'
+        image: 'images/a8.jpg'
     },
     {
-        image: './images/a9.jpg'
+        image: 'images/a9.jpg'
     }
 ];
 
